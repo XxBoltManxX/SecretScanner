@@ -6,7 +6,7 @@ Find hardcoded credentials in code repositories.
 
 ```bash
 git clone https://github.com/00x127/SecretScanner
-cd secretscanner
+cd SecretScanner
 chmod +x secretscanner.py
 ```
 
